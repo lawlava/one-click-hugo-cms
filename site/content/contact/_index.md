@@ -4,8 +4,6 @@ logo: /img/logo.svg
 contact_entries:
   - heading: Email
     text: sales@lawlava.com
-  - heading: Working hours
-    text: "M-F: 9AM – 5PM"
 ---
 We’d love to get in touch. Let us know how we can help
 
