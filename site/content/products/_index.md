@@ -9,11 +9,46 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      Our solutions are powered by graphics cards (GPUs), primarily from Nvidia and AMD:
+
+
+      Consumer GPUs: <br>
+
+      Nvidia RTX 3060 <br>
+
+      Nvidia RTX 3060 ti <br>
+
+      Nvidia RTX 3070 <br>
+
+      Nvidia RTX 3080 <br>
+
+      Nvidia RTX 3090 <br> <br>
+
+
+      AMD Radeon 5300 <br>
+
+      AMD Radeon 5500 <br>
+
+      AMD Radeon 5600 <br>
+
+      AMD Radeon 5700 <br>
+
+      AMD Radeon 6700 <br>
+
+      AMD Radeon 6800 <br>
+
+      AMD Radeon 6900 <br>
+
+
+      Professional GPUs: <br>
+
+      Nvidia RTX 5000 <br>
+
+      Nvidia RTX 6000 <br>
+
+      Nvidia RTX 8000 <br>
+
+      Nvidia RTX A6000 <br>
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
